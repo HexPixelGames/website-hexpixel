@@ -799,11 +799,6 @@ body{
         grid-template-columns: repeat(2, 1fr);  
     }
 
-    /* .grid-item img{
-        width: 23rem;
-        height: 23rem;
-    } */
-
     .grid-item img{
         width: 20rem;
         height: 20rem;
@@ -817,11 +812,6 @@ body{
     .pixelart-container{
         grid-template-columns: repeat(2, 1fr);  
     }
-
-    /* .grid-item img{
-        width: 22rem;
-        height: 22rem;
-    } */
 
     .grid-item img{
         width: 20rem;
