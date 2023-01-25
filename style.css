@@ -480,11 +480,11 @@ body{
 
 /* PIXEL ART SECTION */
 .pixelart-container{
-    margin: 2rem;
+    /* margin: 2rem; */
     max-width: 1200px;
     align-items: center;
     justify-content: center;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     display: grid;
     grid-template-columns: 30rem 30rem 30rem 30rem;
     gap: 1rem;
