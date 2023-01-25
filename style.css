@@ -798,9 +798,14 @@ body{
         grid-template-columns: repeat(2, 1fr);  
     }
 
-    .grid-item img{
+    /* .grid-item img{
         width: 23rem;
         height: 23rem;
+    } */
+
+    .grid-item img{
+        width: 20rem;
+        height: 20rem;
     }
 
 }
@@ -830,6 +835,20 @@ body{
     .grid-item img{
         width: 18rem;
         height: 18rem;
+    }
+
+}
+
+
+@media (max-width: 294px){
+
+    .pixelart-container{
+        grid-template-columns: repeat(2, 1fr);  
+    }
+
+    .grid-item img{
+        width: 17rem;
+        height: 17rem;
     }
 
 }
