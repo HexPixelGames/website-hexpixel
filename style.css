@@ -154,6 +154,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    pointer-events: none;
 
 }
 
@@ -185,8 +186,6 @@ body{
 
 .home-text img{
     width: 25rem;
-
-    /* margin-left: 4rem; */
 }
 
 .home-text .text{
@@ -231,6 +230,7 @@ body{
 .heading-title img{
     margin-top: 1rem;
     width: 28rem;
+    pointer-events: none;
 }
 
 
@@ -252,6 +252,7 @@ body{
     background-size: cover !important;
     background-position: center !important;
     min-height: 10rem;
+    pointer-events: none;
 
 }
 
@@ -262,6 +263,7 @@ body{
 
 .owl-carousel img{
     margin-top: 1.5rem;
+    pointer-events: none;
 }
 
 
@@ -295,6 +297,7 @@ body{
 
 .card-header img{
     width: 25rem;
+    pointer-events: none;
 }
 
 .card-header hr{
@@ -309,6 +312,7 @@ body{
     background-position: center !important;
     min-height: 10rem;
     margin: 1rem;
+    pointer-events: none;
     
 }
 
@@ -322,6 +326,7 @@ body{
 
 .games-carousel img{
     margin-top: 1.5rem;
+    pointer-events: none;
 }
 
 .game-content p{
@@ -410,6 +415,7 @@ body{
 .footer-image .char img{
 
     width: 20rem;
+    pointer-events: none;
 }
 
 
@@ -702,6 +708,7 @@ body{
 .download-images .img1 {
     width: 30rem;
     margin: 1rem;
+    pointer-events: none;
 }
 
 .columns{
